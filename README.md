@@ -1,8 +1,21 @@
-# CODTECH-Task2
-# Linear-Regression-Prediction-Project
+Name: SRI MUKUND ATLURI
+
+Company: CODTECH IT SOLUTIONS
+
+ID: CT3MTDS84
+
+Domain: Data Analytics
+
+Duration: August to November 2024
+
+Mentor: Muzammil Ahmed
+
+Overview of the Project
+
+Project: PREDICTIVE MODELING WITH LINEAR REGRESSION
 
 
-Analyse a Dataset of Ecommerce company based in New York City that sells clothing online , order either on a mobile app or website for the clothes they want.
+Analyse a Dataset of Ecommerce company based in Hyderabad City that sells mobiles online .
 
 
 
